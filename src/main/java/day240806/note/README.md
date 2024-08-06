@@ -50,13 +50,22 @@
 
 - ![img_8.png](img_8.png)
 
+## JUnit测试工具
+
+- ![img_10.png](img_10.png)
+
 ## Test方法
 
 - ![img_9.png](img_9.png)
 
-## JUnit5测试工具
+## 引入JUnit的好处
 
-- ![img_10.png](img_10.png)
+- ![img_20.png](img_20.png)
+
+## Maven-Lifecycle里的意思
+
+- ![img_21.png](img_21.png)
+- https://maven.apache.org/guides/introduction/introduction-to-the-lifecycle.html
 
 ## 动手一,非maven导入jar包来测试使用
 
