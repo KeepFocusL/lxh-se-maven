@@ -1,0 +1,12 @@
+package day240806;
+
+public class StudentTest {
+    public static void main(String[] args) {
+        Student student1 = new Student();
+        student1.setNewName("小红");
+        student1.setAge(18);
+        Student student2 = new Student("老黑", 19);
+        System.out.println(student2.getNewName());
+        System.out.println(student2.getAge());
+    }
+}
