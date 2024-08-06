@@ -11,7 +11,7 @@ import lombok.Setter;
 @AllArgsConstructor
 public class Student {
     //state
-    String name;
+    String xxx;
     int age;
 
     //constructor
