@@ -17,11 +17,11 @@ public class Student {
 
     //behavior
 
-    public String getName() {
+    public String getNewName() {
         return name;
     }
 
-    public void setName(String newName) {
+    public void setNewName(String newName) {
         this.name = newName;
     }
 
