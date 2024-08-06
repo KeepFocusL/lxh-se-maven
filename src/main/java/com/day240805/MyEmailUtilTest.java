@@ -1,4 +1,4 @@
-package com.day240825;
+package com.day240805;
 
 public class MyEmailUtilTest {
     public static void main(String[] args) throws Exception {

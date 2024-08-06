@@ -1,4 +1,4 @@
-package com.day240825;
+package com.day240805;
 
 import jakarta.mail.*;
 import jakarta.mail.internet.*;
