@@ -1,4 +1,4 @@
-package com.day240805;
+package day240805;
 
 import org.jsoup.Jsoup;
 import org.jsoup.nodes.Document;
