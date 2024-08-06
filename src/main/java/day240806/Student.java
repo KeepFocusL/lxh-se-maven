@@ -9,8 +9,8 @@ public class Student {
     public Student() {
     }
 
-    public Student(String name, int age) {
-        this.name = name;
+    public Student(String newName, int age) {
+        this.name = newName;
         this.age = age;
 
     }
@@ -21,8 +21,8 @@ public class Student {
         return name;
     }
 
-    public void setName(String name) {
-        this.name = name;
+    public void setName(String newName) {
+        this.name = newName;
     }
 
     public int getAge() {
